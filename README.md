@@ -30,8 +30,3 @@ A microcontroller‑based rhythm game built for the NUC1xx platform. Players hit
 - LEDs (GPC12–GPC15)  
 - EEPROM (24LC64 via I2C)  
 - Keypad input  
-
-## 🚀 Getting Started
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/YourUsername/RhythmTilesGame.git
